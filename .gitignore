@@ -89,3 +89,9 @@ fastlane/test_output
 
 iOSInjectionProject/
 
+# Executables
+*.exe
+*.out
+*.app
+*.DS_Store
+._*
